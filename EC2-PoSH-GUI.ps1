@@ -9,7 +9,7 @@
         Title="EC2 PowerShell Console" Height="515.786" Width="794.979">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\eshanks\Dropbox\Pictures\Backgrounds\AWS-PoshBackground.png"/>
+            <ImageBrush ImageSource="http://theithollow.com/wp-content/uploads/2016/10/AWS-PoshBackground.png"/>
         </Grid.Background>
         <Rectangle HorizontalAlignment="Left" Height="121" Margin="337,253,0,0" Stroke="Black" VerticalAlignment="Top" Width="401" Opacity="0.6">
             <Rectangle.Fill>
